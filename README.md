@@ -1,9 +1,9 @@
 
-# FlexBox
+# Gallery
 
 <img src="Screenshots/1.png"/>
 
-# Grid
+# CourseTable
 
 <img src="Screenshots/2.png"/>
 
